@@ -1,0 +1,20 @@
+{
+    "name": "tanvir/wppool-orderhub",
+    "description": "A tutorial plugin for Wppool Orderhub",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Tanvir Hasan",
+            "email": "tanvirhasan.j@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wppool\\Orderhub\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}

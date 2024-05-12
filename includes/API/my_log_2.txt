@@ -1,0 +1,109 @@
+WP_REST_Request Object
+(
+    [method:protected] => POST
+    [params:protected] => Array
+        (
+            [URL] => Array
+                (
+                )
+
+            [GET] => Array
+                (
+                )
+
+            [POST] => Array
+                (
+                    [domainname] => localhost/wp-test/tanvir
+                    [senddata] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3b29kYXRhIjp7ImlkIjo4MywicGFyZW50X2lkIjowLCJzdGF0dXMiOiJwcm9jZXNzaW5nIiwiY3VycmVuY3kiOiJCRFQiLCJ2ZXJzaW9uIjoiOC44LjMiLCJwcmljZXNfaW5jbHVkZV90YXgiOmZhbHNlLCJkYXRlX2NyZWF0ZWQiOnsiZGF0ZSI6IjIwMjQtMDUtMDkgMDY6NDM6MTUuMDAwMDAwIiwidGltZXpvbmVfdHlwZSI6MSwidGltZXpvbmUiOiIrMDA6MDAifSwiZGF0ZV9tb2RpZmllZCI6eyJkYXRlIjoiMjAyNC0wNS0wOSAwNjo0MzozMC4wMDAwMDAiLCJ0aW1lem9uZV90eXBlIjoxLCJ0aW1lem9uZSI6IiswMDowMCJ9LCJkaXNjb3VudF90b3RhbCI6IjAiLCJkaXNjb3VudF90YXgiOiIwIiwic2hpcHBpbmdfdG90YWwiOiIwIiwic2hpcHBpbmdfdGF4IjoiMCIsImNhcnRfdGF4IjoiMCIsInRvdGFsIjoiMTguMDAiLCJ0b3RhbF90YXgiOiIwIiwiY3VzdG9tZXJfaWQiOjEsIm9yZGVyX2tleSI6IndjX29yZGVyX205eDd5WEx3akFpMnEiLCJiaWxsaW5nIjp7ImZpcnN0X25hbWUiOiJ0YW52aXIiLCJsYXN0X25hbWUiOiJoYXNhbiIsImNvbXBhbnkiOiIiLCJhZGRyZXNzXzEiOiIxXC85IiwiYWRkcmVzc18yIjoiIiwiY2l0eSI6ImRoYWthIiwic3RhdGUiOiJCRC0xMyIsInBvc3Rjb2RlIjoiIiwiY291bnRyeSI6IkJEIiwiZW1haWwiOiJhQGIuY29tIiwicGhvbmUiOiIifSwic2hpcHBpbmciOnsiZmlyc3RfbmFtZSI6InRhbnZpciIsImxhc3RfbmFtZSI6Imhhc2FuIiwiY29tcGFueSI6IiIsImFkZHJlc3NfMSI6IjFcLzkiLCJhZGRyZXNzXzIiOiIiLCJjaXR5IjoiZGhha2EiLCJzdGF0ZSI6IkJELTEzIiwicG9zdGNvZGUiOiIiLCJjb3VudHJ5IjoiQkQiLCJwaG9uZSI6IiJ9LCJwYXltZW50X21ldGhvZCI6ImNvZCIsInBheW1lbnRfbWV0aG9kX3RpdGxlIjoiQ2FzaCBvbiBkZWxpdmVyeSIsInRyYW5zYWN0aW9uX2lkIjoiIiwiY3VzdG9tZXJfaXBfYWRkcmVzcyI6Ijo6MSIsImN1c3RvbWVyX3VzZXJfYWdlbnQiOiJNb3ppbGxhXC81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvMTI0LjAuMC4wIFNhZmFyaVwvNTM3LjM2IiwiY3JlYXRlZF92aWEiOiJzdG9yZS1hcGkiLCJjdXN0b21lcl9ub3RlIjoiIiwiZGF0ZV9jb21wbGV0ZWQiOm51bGwsImRhdGVfcGFpZCI6bnVsbCwiY2FydF9oYXNoIjoiYjBjNTcyZTY2NzEwYmIxZTc1ODM2MjFlYWUyMGYwM2EiLCJvcmRlcl9zdG9ja19yZWR1Y2VkIjp0cnVlLCJkb3dubG9hZF9wZXJtaXNzaW9uc19ncmFudGVkIjp0cnVlLCJuZXdfb3JkZXJfZW1haWxfc2VudCI6dHJ1ZSwicmVjb3JkZWRfc2FsZXMiOnRydWUsInJlY29yZGVkX2NvdXBvbl91c2FnZV9jb3VudHMiOnRydWUsIm51bWJlciI6IjgzIiwibWV0YV9kYXRhIjpbeyJpZCI6NTIsImtleSI6Il9iaWxsaW5nX2FkZHJlc3NfaW5kZXgiLCJ2YWx1ZSI6InRhbnZpciBoYXNhbiAgMVwvOSAgZGhha2EgQkQtMTMgIEJEIGFAYi5jb20gIn0seyJpZCI6NTMsImtleSI6Il9zaGlwcGluZ19hZGRyZXNzX2luZGV4IiwidmFsdWUiOiJ0YW52aXIgaGFzYW4gIDFcLzkgIGRoYWthIEJELTEzICBCRCAifSx7ImlkIjo0OCwia2V5IjoiX2NvdXBvbnNfaGFzaCIsInZhbHVlIjoiZDc1MTcxMzk4ODk4N2U5MzMxOTgwMzYzZTI0MTg5Y2UifSx7ImlkIjo2Mywia2V5IjoiX2VkaXRfbG9jayIsInZhbHVlIjoiMTcxNTI0NjMyOToxIn0seyJpZCI6NDksImtleSI6Il9mZWVzX2hhc2giLCJ2YWx1ZSI6ImQ3NTE3MTM5ODg5ODdlOTMzMTk4MDM2M2UyNDE4OWNlIn0seyJpZCI6NDcsImtleSI6Il9zaGlwcGluZ19oYXNoIiwidmFsdWUiOiI5ZDQ1NjhjMDA5ZDIwM2FiMTBlMzNlYTk5NTNhMDI2NCJ9LHsiaWQiOjUwLCJrZXkiOiJfdGF4ZXNfaGFzaCIsInZhbHVlIjoiZDc1MTcxMzk4ODk4N2U5MzMxOTgwMzYzZTI0MTg5Y2UifSx7ImlkIjo2Miwia2V5IjoiX3djX29yZGVyX2F0dHJpYnV0aW9uX2RldmljZV90eXBlIiwidmFsdWUiOiJEZXNrdG9wIn0seyJpZCI6NTUsImtleSI6Il93Y19vcmRlcl9hdHRyaWJ1dGlvbl9yZWZlcnJlciIsInZhbHVlIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93cC10ZXN0XC90YW52aXJcL3dwLWFkbWluXC9lZGl0LnBocD9wb3N0X3R5cGU9cHJvZHVjdCJ9LHsiaWQiOjYwLCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc2Vzc2lvbl9jb3VudCIsInZhbHVlIjoiMSJ9LHsiaWQiOjU3LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc2Vzc2lvbl9lbnRyeSIsInZhbHVlIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93cC10ZXN0XC90YW52aXJcLyJ9LHsiaWQiOjU5LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc2Vzc2lvbl9wYWdlcyIsInZhbHVlIjoiMTMifSx7ImlkIjo1OCwia2V5IjoiX3djX29yZGVyX2F0dHJpYnV0aW9uX3Nlc3Npb25fc3RhcnRfdGltZSIsInZhbHVlIjoiMjAyNC0wNS0wOSAwNjoyMzozOSJ9LHsiaWQiOjU0LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc291cmNlX3R5cGUiLCJ2YWx1ZSI6InR5cGVpbiJ9LHsiaWQiOjYxLCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fdXNlcl9hZ2VudCIsInZhbHVlIjoiTW96aWxsYVwvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzEyNC4wLjAuMCBTYWZhcmlcLzUzNy4zNiJ9LHsiaWQiOjU2LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fdXRtX3NvdXJjZSIsInZhbHVlIjoiKGRpcmVjdCkifSx7ImlkIjo1MSwia2V5IjoiaXNfdmF0X2V4ZW1wdCIsInZhbHVlIjoibm8ifV0sImxpbmVfaXRlbXMiOnsiMTMiOnsibGVnYWN5X3ZhbHVlcyI6bnVsbCwibGVnYWN5X2NhcnRfaXRlbV9rZXkiOm51bGwsImxlZ2FjeV9wYWNrYWdlX2tleSI6bnVsbH19LCJ0YXhfbGluZXMiOltdLCJzaGlwcGluZ19saW5lcyI6eyIxNSI6eyJsZWdhY3lfdmFsdWVzIjpudWxsLCJsZWdhY3lfY2FydF9pdGVtX2tleSI6bnVsbCwibGVnYWN5X3BhY2thZ2Vfa2V5IjpudWxsfX0sImZlZV9saW5lcyI6W10sImNvdXBvbl9saW5lcyI6W119LCJyb2xlIjoiYWRtaW4iLCJvcmRlcl9pZCI6IjgzIiwiZXhwIjoxNzE1MjQ2NDQ5fQ.bfhIpJoqwPRWAwwMesTx_75IYH7_-UJZcrvghUQR_Kw
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [JSON] => 
+            [defaults] => Array
+                (
+                )
+
+        )
+
+    [headers:protected] => Array
+        (
+            [content_type] => Array
+                (
+                    [0] => application/x-www-form-urlencoded
+                )
+
+            [content_length] => Array
+                (
+                    [0] => 4308
+                )
+
+            [connection] => Array
+                (
+                    [0] => close
+                )
+
+            [accept_encoding] => Array
+                (
+                    [0] => deflate, gzip
+                )
+
+            [accept] => Array
+                (
+                    [0] => */*
+                )
+
+            [user_agent] => Array
+                (
+                    [0] => WordPress/6.5.3; http://localhost/wp-test/tanvir
+                )
+
+            [host] => Array
+                (
+                    [0] => localhost
+                )
+
+            [authorization] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [body:protected] => domainname=localhost%2Fwp-test%2Ftanvir&senddata=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3b29kYXRhIjp7ImlkIjo4MywicGFyZW50X2lkIjowLCJzdGF0dXMiOiJwcm9jZXNzaW5nIiwiY3VycmVuY3kiOiJCRFQiLCJ2ZXJzaW9uIjoiOC44LjMiLCJwcmljZXNfaW5jbHVkZV90YXgiOmZhbHNlLCJkYXRlX2NyZWF0ZWQiOnsiZGF0ZSI6IjIwMjQtMDUtMDkgMDY6NDM6MTUuMDAwMDAwIiwidGltZXpvbmVfdHlwZSI6MSwidGltZXpvbmUiOiIrMDA6MDAifSwiZGF0ZV9tb2RpZmllZCI6eyJkYXRlIjoiMjAyNC0wNS0wOSAwNjo0MzozMC4wMDAwMDAiLCJ0aW1lem9uZV90eXBlIjoxLCJ0aW1lem9uZSI6IiswMDowMCJ9LCJkaXNjb3VudF90b3RhbCI6IjAiLCJkaXNjb3VudF90YXgiOiIwIiwic2hpcHBpbmdfdG90YWwiOiIwIiwic2hpcHBpbmdfdGF4IjoiMCIsImNhcnRfdGF4IjoiMCIsInRvdGFsIjoiMTguMDAiLCJ0b3RhbF90YXgiOiIwIiwiY3VzdG9tZXJfaWQiOjEsIm9yZGVyX2tleSI6IndjX29yZGVyX205eDd5WEx3akFpMnEiLCJiaWxsaW5nIjp7ImZpcnN0X25hbWUiOiJ0YW52aXIiLCJsYXN0X25hbWUiOiJoYXNhbiIsImNvbXBhbnkiOiIiLCJhZGRyZXNzXzEiOiIxXC85IiwiYWRkcmVzc18yIjoiIiwiY2l0eSI6ImRoYWthIiwic3RhdGUiOiJCRC0xMyIsInBvc3Rjb2RlIjoiIiwiY291bnRyeSI6IkJEIiwiZW1haWwiOiJhQGIuY29tIiwicGhvbmUiOiIifSwic2hpcHBpbmciOnsiZmlyc3RfbmFtZSI6InRhbnZpciIsImxhc3RfbmFtZSI6Imhhc2FuIiwiY29tcGFueSI6IiIsImFkZHJlc3NfMSI6IjFcLzkiLCJhZGRyZXNzXzIiOiIiLCJjaXR5IjoiZGhha2EiLCJzdGF0ZSI6IkJELTEzIiwicG9zdGNvZGUiOiIiLCJjb3VudHJ5IjoiQkQiLCJwaG9uZSI6IiJ9LCJwYXltZW50X21ldGhvZCI6ImNvZCIsInBheW1lbnRfbWV0aG9kX3RpdGxlIjoiQ2FzaCBvbiBkZWxpdmVyeSIsInRyYW5zYWN0aW9uX2lkIjoiIiwiY3VzdG9tZXJfaXBfYWRkcmVzcyI6Ijo6MSIsImN1c3RvbWVyX3VzZXJfYWdlbnQiOiJNb3ppbGxhXC81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvMTI0LjAuMC4wIFNhZmFyaVwvNTM3LjM2IiwiY3JlYXRlZF92aWEiOiJzdG9yZS1hcGkiLCJjdXN0b21lcl9ub3RlIjoiIiwiZGF0ZV9jb21wbGV0ZWQiOm51bGwsImRhdGVfcGFpZCI6bnVsbCwiY2FydF9oYXNoIjoiYjBjNTcyZTY2NzEwYmIxZTc1ODM2MjFlYWUyMGYwM2EiLCJvcmRlcl9zdG9ja19yZWR1Y2VkIjp0cnVlLCJkb3dubG9hZF9wZXJtaXNzaW9uc19ncmFudGVkIjp0cnVlLCJuZXdfb3JkZXJfZW1haWxfc2VudCI6dHJ1ZSwicmVjb3JkZWRfc2FsZXMiOnRydWUsInJlY29yZGVkX2NvdXBvbl91c2FnZV9jb3VudHMiOnRydWUsIm51bWJlciI6IjgzIiwibWV0YV9kYXRhIjpbeyJpZCI6NTIsImtleSI6Il9iaWxsaW5nX2FkZHJlc3NfaW5kZXgiLCJ2YWx1ZSI6InRhbnZpciBoYXNhbiAgMVwvOSAgZGhha2EgQkQtMTMgIEJEIGFAYi5jb20gIn0seyJpZCI6NTMsImtleSI6Il9zaGlwcGluZ19hZGRyZXNzX2luZGV4IiwidmFsdWUiOiJ0YW52aXIgaGFzYW4gIDFcLzkgIGRoYWthIEJELTEzICBCRCAifSx7ImlkIjo0OCwia2V5IjoiX2NvdXBvbnNfaGFzaCIsInZhbHVlIjoiZDc1MTcxMzk4ODk4N2U5MzMxOTgwMzYzZTI0MTg5Y2UifSx7ImlkIjo2Mywia2V5IjoiX2VkaXRfbG9jayIsInZhbHVlIjoiMTcxNTI0NjMyOToxIn0seyJpZCI6NDksImtleSI6Il9mZWVzX2hhc2giLCJ2YWx1ZSI6ImQ3NTE3MTM5ODg5ODdlOTMzMTk4MDM2M2UyNDE4OWNlIn0seyJpZCI6NDcsImtleSI6Il9zaGlwcGluZ19oYXNoIiwidmFsdWUiOiI5ZDQ1NjhjMDA5ZDIwM2FiMTBlMzNlYTk5NTNhMDI2NCJ9LHsiaWQiOjUwLCJrZXkiOiJfdGF4ZXNfaGFzaCIsInZhbHVlIjoiZDc1MTcxMzk4ODk4N2U5MzMxOTgwMzYzZTI0MTg5Y2UifSx7ImlkIjo2Miwia2V5IjoiX3djX29yZGVyX2F0dHJpYnV0aW9uX2RldmljZV90eXBlIiwidmFsdWUiOiJEZXNrdG9wIn0seyJpZCI6NTUsImtleSI6Il93Y19vcmRlcl9hdHRyaWJ1dGlvbl9yZWZlcnJlciIsInZhbHVlIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93cC10ZXN0XC90YW52aXJcL3dwLWFkbWluXC9lZGl0LnBocD9wb3N0X3R5cGU9cHJvZHVjdCJ9LHsiaWQiOjYwLCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc2Vzc2lvbl9jb3VudCIsInZhbHVlIjoiMSJ9LHsiaWQiOjU3LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc2Vzc2lvbl9lbnRyeSIsInZhbHVlIjoiaHR0cDpcL1wvbG9jYWxob3N0XC93cC10ZXN0XC90YW52aXJcLyJ9LHsiaWQiOjU5LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc2Vzc2lvbl9wYWdlcyIsInZhbHVlIjoiMTMifSx7ImlkIjo1OCwia2V5IjoiX3djX29yZGVyX2F0dHJpYnV0aW9uX3Nlc3Npb25fc3RhcnRfdGltZSIsInZhbHVlIjoiMjAyNC0wNS0wOSAwNjoyMzozOSJ9LHsiaWQiOjU0LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fc291cmNlX3R5cGUiLCJ2YWx1ZSI6InR5cGVpbiJ9LHsiaWQiOjYxLCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fdXNlcl9hZ2VudCIsInZhbHVlIjoiTW96aWxsYVwvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzEyNC4wLjAuMCBTYWZhcmlcLzUzNy4zNiJ9LHsiaWQiOjU2LCJrZXkiOiJfd2Nfb3JkZXJfYXR0cmlidXRpb25fdXRtX3NvdXJjZSIsInZhbHVlIjoiKGRpcmVjdCkifSx7ImlkIjo1MSwia2V5IjoiaXNfdmF0X2V4ZW1wdCIsInZhbHVlIjoibm8ifV0sImxpbmVfaXRlbXMiOnsiMTMiOnsibGVnYWN5X3ZhbHVlcyI6bnVsbCwibGVnYWN5X2NhcnRfaXRlbV9rZXkiOm51bGwsImxlZ2FjeV9wYWNrYWdlX2tleSI6bnVsbH19LCJ0YXhfbGluZXMiOltdLCJzaGlwcGluZ19saW5lcyI6eyIxNSI6eyJsZWdhY3lfdmFsdWVzIjpudWxsLCJsZWdhY3lfY2FydF9pdGVtX2tleSI6bnVsbCwibGVnYWN5X3BhY2thZ2Vfa2V5IjpudWxsfX0sImZlZV9saW5lcyI6W10sImNvdXBvbl9saW5lcyI6W119LCJyb2xlIjoiYWRtaW4iLCJvcmRlcl9pZCI6IjgzIiwiZXhwIjoxNzE1MjQ2NDQ5fQ.bfhIpJoqwPRWAwwMesTx_75IYH7_-UJZcrvghUQR_Kw
+    [route:protected] => /api/v1/apiupload
+    [attributes:protected] => Array
+        (
+            [methods] => Array
+                (
+                    [POST] => 1
+                )
+
+            [accept_json] => 
+            [accept_raw] => 
+            [show_in_index] => 1
+            [args] => Array
+                (
+                )
+
+            [callback] => Array
+                (
+                    [0] => Wppool\Orderhub\API\Addressbook Object
+                        (
+                            [namespace:protected] => api/v1
+                            [rest_base:protected] => getapi
+                            [schema:protected] => 
+                            [rest_upload] => apiupload
+                        )
+
+                    [1] => create_api_upload
+                )
+
+            [permission_callback] => __return_true
+        )
+
+    [parsed_json:protected] => 1
+    [parsed_body:protected] => 
+)
